@@ -72,7 +72,7 @@
 ## Professional Experience
 
 ### **Byrsa Tech** | Tech Lead React/React Native & Senior Spring Boot Developer
-**FinTech Startup (25 employees) | 06/2020 – Present (5+ years)**
+**FinTech Startup (25 employees) | 07/2020 – Present (5+ years)**
 
 **Project:** Defmarket (Decentralized Marketplace Platform)
 
@@ -103,7 +103,7 @@
 ---
 
 ### **PRIMATEC Engineering** | Backend Developer
-**Automotive SME (150 employees) | 01/2020 – 04/2020 (4 months - Contract)**
+**Automotive SME (150 employees) | 01/2020 – 06/2020 (6 months - Contract)**
 
 **Specialization:** IoT Car-sharing Solutions
 
